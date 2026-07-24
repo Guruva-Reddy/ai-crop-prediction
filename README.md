@@ -2,6 +2,11 @@
 
 An AI-based web application that predicts the most suitable crop based on soil nutrients and environmental conditions using Machine Learning.
 
+# Live Demo
+ **Try the application here:**
+ 
+https://ai-crop-prediction-luxcss8a3mdqhwpydfrwrk.streamlit.app/
+ 
 # Project Overview
 
 This project helps farmers choose the best crop by analyzing input values such as:
