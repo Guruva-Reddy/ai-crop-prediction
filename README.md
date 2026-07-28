@@ -77,6 +77,5 @@ streamlit run app.py
 
 **Guruva Reddy**
 
-B.Tech Computer Engineering (AI)
-
-Marwadi University
+GitHub: https://github.com/Guruva-Reddy
+LinkedIn: https://www.linkedin.com/in/guruvareddy
